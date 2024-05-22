@@ -1,7 +1,9 @@
 # Netflix-series
 This project involves analyzing data from Netflix. The main goals are to understand various aspects of the available content, such as the cast, release year, duration, genre, etc. The project is implemented in Python and utilizes several libraries for data analysis and visualization.
 
-There are some of the goals that I reached:
+Some questions from the project:
+
+
 1. In which year highest number of the tv shows and movies were released? Show it with bar graph.
 <img width="556" alt="image" src="https://github.com/nikckckcola/Netflix-series/assets/163341543/db7eecd5-a527-4ab7-bb71-3ee6995ee9ab">
 
